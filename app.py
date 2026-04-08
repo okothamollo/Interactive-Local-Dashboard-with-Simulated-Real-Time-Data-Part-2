@@ -114,6 +114,7 @@ fig_box = px.box(filtered_data,
                  title='Box Plot of Value by Category',
                  labels={'value': 'Value', 'Category': 'Category'},
                  color_discrete_map={'A':'blue', 'B':'orange', 'C':'green'}
+                 )
 st.plotly_chart(fig_box, use_container_width=True)
 
 
