@@ -1,4 +1,5 @@
 Introduction
+
 This is interactive dashboard that simulates near real time updates without needing distributed system. Emphasis is placed on designing for responsiveness and clarity within local hardware limits.
 Objectives
 1.	Implement simple streaming or scheduled updates.
@@ -33,6 +34,7 @@ Features:
 
    
 Why it was created for the project:
+
 This synthetic dataset was created to meet the project's requirements for a large, dynamic dataset. Its structure facilitates:
 •	Demonstrating Performance: The size will need techniques that handle substantial amounts of data, thereby emphasizing importance of optimization strategies.
 •	Simulating Real-World Scenarios: The inclusion of timestamp allows simulating periodic data updates.
