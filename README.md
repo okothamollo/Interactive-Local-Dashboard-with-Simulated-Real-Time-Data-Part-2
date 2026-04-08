@@ -36,8 +36,11 @@ Features:
 Why it was created for the project:
 
 This synthetic dataset was created to meet the project's requirements for a large, dynamic dataset. Its structure facilitates:
+
 •	Demonstrating Performance: The size will need techniques that handle substantial amounts of data, thereby emphasizing importance of optimization strategies.
+
 •	Simulating Real-World Scenarios: The inclusion of timestamp allows simulating periodic data updates.
+
 •	Enabling Interactive Explorations: The combination of timestamp, category, and value provides ample dimensions for users to interactively filter, group, and analyze the data, fulfilling the requirement for dynamic and user-driven visualizations.
 
 
