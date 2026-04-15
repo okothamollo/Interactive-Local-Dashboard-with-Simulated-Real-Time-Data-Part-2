@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an interactive dashboard for exploring synthetic data using Streamlit. It's designed as part of the DSC-527 Applied Data Visualizations course, specifically for Topic 2 on Interactive and Near Real-Time Dashboards (Part 3).
+This project implements an interactive dashboard for exploring synthetic data using Streamlit.
 
 The dashboard provides dynamic visualizations of a large synthetic dataset (750,000 rows) with features for filtering, real-time data refresh, and multiple chart types including histograms, scatter plots, box plots, and bar charts.
 
